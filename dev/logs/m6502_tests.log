@@ -1,0 +1,6 @@
+❯ /workspaces/superzazu-6502/build/m6502_tests
+AllSuiteA: PASS (612 instructions executed on 1946 cycles,  expected=1946, diff=0)
+6502_functional_test: PASS (30646177 instructions executed on 96241367 cycles,  expected=96241367, diff=0)
+6502_decimal_test: PASS (14464187 instructions executed on 46089505 cycles,  expected=46089505, diff=0)
+timingtest: PASS (299 instructions executed on 1141 cycles,  expected=1141, diff=0)
+65C02_extended_opcodes_test: PASS (21986986 instructions executed on 66886142 cycles,  expected=66886142, diff=0)

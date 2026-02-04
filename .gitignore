@@ -3,3 +3,6 @@
 m6502_tests
 ehbasic
 TODO.md
+
+# cmake
+/build/
